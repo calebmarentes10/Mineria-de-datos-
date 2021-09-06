@@ -11,4 +11,4 @@
 
 ## Fase 2
 
--[Presentación](https://github.com/mariagarnica/_mineria/blob/main/Presentacion_MetricasdeEvaluacion_Equipo2.pdf)
+- [Presentación](https://github.com/mariagarnica/_mineria/blob/main/Presentacion_MetricasdeEvaluacion_Equipo2.pdf)
