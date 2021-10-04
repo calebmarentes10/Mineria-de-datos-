@@ -12,3 +12,4 @@
 ## Fase 2
 
 - [Presentación](https://github.com/mariagarnica/_mineria/blob/main/Presentacion_MetricasdeEvaluacion_Equipo2.pdf)
+- [Avance PIA II](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Avance1_PIA_Equipo2.ipynb)
