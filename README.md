@@ -18,3 +18,4 @@
 - [Avance PIA II_Corregido](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Tecnicas%20de%20mineria_Equipo2.ipynb)
 - [Tecnicas de mineria](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Tecnicas%20de%20mineria_Equipo2.ipynb)
 - [Notebook Final](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Notebook_Equipo2.ipynb)
+- [Poster-Equipo2](https://github.com/DayanneVidal/Mineria.de.Datos/blob/main/Poster-Equipo%202.pdf)
